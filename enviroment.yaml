@@ -1,0 +1,14 @@
+dependencies:
+  - python=3.8
+  - pip:
+    - statsmodels
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - seaborn
+    - pymc3
+    - arviz
+    - theano-pymc
